@@ -1,0 +1,40 @@
+.food-menu {
+    width: 100%;
+    height: 90vh;
+}
+
+.nav-center ul {
+    text-align: center;
+}
+
+.nav-center ul li {
+    display: inline;
+    float: none;
+    padding: 14px 16px;
+}
+
+.nav-center ul li a {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+/* 
+.nav-center ul li:nth-child(2) a {
+    color: red;
+    margin-bottom: 2rem;
+    text-align: center;
+} */
+.nav-center ul .lunch-btn a {
+    color: red;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.nav-center ul .lunch-btn a {
+    border-bottom: 3px solid red;
+    border-radius: 2px;
+    margin-top: 15px;
+}

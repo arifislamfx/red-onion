@@ -1,0 +1,33 @@
+.brand-logo {
+  width: 145px;
+  height: 45px;
+  margin-top: 10px !important;
+}
+
+.menu1 {
+  text-decoration: none !important;
+  border: none !important;
+}
+
+.home1 {
+  text-decoration: none !important;
+  font-size: 20px !important;
+}
+
+.about1 {
+  text-decoration: none !important;
+  font-size: 20px !important;
+}
+
+.cart1 {
+  text-decoration: none !important;
+}
+
+.login1 {
+  text-decoration: none !important;
+  font-size: 20px !important;
+}
+
+.sign1 {
+  text-decoration: none !important;
+}
