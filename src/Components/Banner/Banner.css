@@ -50,19 +50,19 @@ Button {
     input[type=text],
     Button {
         width: 100% !important;
-        margin: 10px !important;
+        /* margin: 10px !important; */
         display: block !important;
         align-items: center !important;
     }
 }
 
+
 @media screen and (max-width: 920px) {
-
-
     Button {
         width: 100% !important;
-        margin: 10px !important;
+        margin-top: 20px !important;
         display: block !important;
         align-items: center !important;
+        margin-left: 12px !important;
     }
 }

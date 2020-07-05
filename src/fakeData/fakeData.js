@@ -6,7 +6,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 23.99,
-    imgName: "../images/lunch/lunch1.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/lunch/lunch1.png",
     category: "Lunch",
   },
   {
@@ -16,7 +17,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 9.99,
-    imgName: "../images/lunch/lunch2.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/lunch/lunch2.png",
     category: "Lunch",
   },
   {
@@ -26,7 +28,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 6.99,
-    imgName: "../images/lunch/lunch3.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/lunch/lunch3.png",
     category: "Lunch",
   },
   {
@@ -36,7 +39,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 8.99,
-    imgName: "../images/lunch/lunch4.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/lunch/lunch4.png",
     category: "Lunch",
   },
   {
@@ -46,7 +50,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 15.99,
-    imgName: "../images/lunch/lunch5.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/lunch/lunch5.png",
     category: "Lunch",
   },
   {
@@ -56,7 +61,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 7.99,
-    imgName: "../images/lunch/lunch6.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/lunch/lunch6.png",
     category: "Lunch",
   },
   {
@@ -66,7 +72,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 6.99,
-    imgName: "../images/breakfast/breakfast1.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Breakfast/breakfast1.png",
     category: "Breakfast",
   },
   {
@@ -76,7 +83,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 9.99,
-    imgName: "../images/breakfast/breakfast2.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Breakfast/breakfast2.png",
     category: "Breakfast",
   },
   {
@@ -86,7 +94,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 10.99,
-    imgName: "../images/breakfast/breakfast3.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Breakfast/breakfast3.png",
     category: "Breakfast",
   },
   {
@@ -96,7 +105,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 8.99,
-    imgName: "../images/breakfast/breakfast4.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Breakfast/breakfast4.png",
     category: "Breakfast",
   },
   {
@@ -106,7 +116,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 19.99,
-    imgName: "../images/breakfast/breakfast5.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Breakfast/breakfast5.png",
     category: "Breakfast",
   },
   {
@@ -116,7 +127,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 3.99,
-    imgName: "../images/breakfast/breakfast6.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Breakfast/breakfast6.png",
     category: "Breakfast",
   },
   {
@@ -126,7 +138,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 9.99,
-    imgName: "../images/dinner/dinner1.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Dinner/dinner1.png",
     category: "Dinner",
   },
   {
@@ -136,7 +149,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 10.99,
-    imgName: "../images/dinner/dinner2.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Dinner/dinner2.png",
     category: "Dinner",
   },
   {
@@ -146,7 +160,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 12.99,
-    imgName: "../images/dinner/dinner3.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Dinner/dinner3.png",
     category: "Dinner",
   },
   {
@@ -156,7 +171,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 8.99,
-    imgName: "../images/dinner/dinner4.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Dinner/dinner4.png",
     category: "Dinner",
   },
   {
@@ -166,7 +182,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 6.99,
-    imgName: "../images/dinner/dinner5.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Dinner/dinner5.png",
     category: "Dinner",
   },
   {
@@ -176,7 +193,8 @@ const menuList = [
     longDescription:
       "How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future. How we dream about our future",
     price: 9.99,
-    imgName: "../images/dinner/dinner6.png",
+    imgName:
+      "https://raw.githubusercontent.com/arifislamfx/red-onion/master/src/images/Dinner/dinner6.png",
     category: "Dinner",
   },
 ];
